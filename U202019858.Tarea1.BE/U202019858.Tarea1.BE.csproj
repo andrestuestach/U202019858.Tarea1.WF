@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LugarBE.cs" />
     <Compile Include="ReservaBE.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
